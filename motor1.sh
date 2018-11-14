@@ -7,6 +7,7 @@ B=3
 C=4
 D=17
 
+#Define steps wich are used from the Motor driver
 function step1() {
 gpio -g write $[D] 1
 gpio -g write $[D] 0
@@ -72,4 +73,3 @@ case "$1" in
 	8)step8
 ;;
 esac
-

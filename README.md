@@ -26,7 +26,7 @@ Beispiel:
 
     ./up.sh 5
 
-Diese Zahl ist ausschlaggebend für die Schrittzahl die der Motor fährt (diese Zahl mit 8 Multiplizieren)
+Diese Zahl ist ausschlaggebend für die Schrittzahl die der Motor fährt (diese Zahl mit 8 Multiplizieren = Schritte die der Motor fährt)
 
 
 Keine Haftung für Schäden.
